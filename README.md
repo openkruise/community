@@ -18,7 +18,7 @@ If you are willing to be a contributor for OpenKruise project, please refer to o
 
 We encourage all contributors to become members. Learn more about requirements and responsibilities of membership in our [Community Membership](./community-membership.md) doc.
 
-If you have made contributions that meet the requirements of becoming OpenYurt member, [simply file an issue](https://github.com/openkruise/community/issues/new) to apply.
+If you have made contributions that meet the requirements of becoming OpenKruise member, [simply file an issue](https://github.com/openkruise/community/issues/new) to apply.
 
 ## Code of Conduct
 
