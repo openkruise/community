@@ -8,7 +8,11 @@ This is the starting point for joining and contributing to the OpenKruise commun
 
 - Slack: https://kubernetes.slack.com/channels/openkruise (*English*)
 - DingTalk：Search Group ID `23330762` (*Chinese*)
-- Bi-weekly Community Call: TODO
+- Bi-weekly Community Meeting (APAC, *Chinese*):
+  - Thursday 19:00 GMT+8 (Asia/Shanghai), [Calendar](https://calendar.google.com/calendar/u/2?cid=MjdtbDZucXA2bjVpNTFyYTNpazV2dW8ybHNAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ)
+  - [Meeting Link(zoom)](https://us02web.zoom.us/j/87059136652?pwd=NlI4UThFWXVRZkxIU0dtR1NINncrQT09)
+  - [Notes and agenda](https://shimo.im/docs/gXqmeQOYBehZ4vqo)
+- Bi-weekly Community Meeting (*English*): TODO
 
 ## Contribute
 
