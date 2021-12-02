@@ -60,7 +60,7 @@ Code approvers are able to both review and approve code contributions. While cod
 
 ### Requirements
 
-- Reviewer of the codebase for at least 3 months
+- Reviewer of the codebase for at least 2 months
 - Primary reviewer for a number of substantial PRs to the codebase
 - Sponsored by 2 maintainers and with no objections from other maintainers
 - Open an issue against the specific repository(like openkruise/kruise) and done through PR to update OWNERS file of specific repository.
