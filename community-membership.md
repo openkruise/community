@@ -86,7 +86,7 @@ Maintainers are the first and foremost contributors that are committed to the su
     - Authoring and reviewing proposals
     - Initiating, contributing and resolving discussions (emails, GitHub issues, meetings)
     - Identifying subtle or complex issues in designs and implementation PRs
-- Open an issue against the openkruise/kruise repository and done through PR to update Maintainers file.
+- Open a PR against the openkruise/community repository and update Maintainers file.
 
 ### Responsibilities and privileges
 
