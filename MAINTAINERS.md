@@ -11,3 +11,4 @@ This file lists the maintainers of the OpenKruise project. The responsibilities 
 | [Zhen Zhang](mailto:shouchen.zz@alibaba-inc.com) | [furykerry](https://github.com/furykerry) | Alibaba |
 | [Robert Everson](mailto:robert@reverson.net) | [reverson](https://github.com/reverson) | Lyft |
 | [Henry Wang](mailto:henrywangx@163.com) | [henrywangx](https://github.com/henrywangx) | Tencent |
+| [Shanjie Han](mailto:hantmac@outlook.com) | [hantmac](https://github.com/hantmac) | MeiTuan |
