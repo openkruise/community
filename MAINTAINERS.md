@@ -6,7 +6,7 @@ This file lists the maintainers of the OpenKruise project. The responsibilities 
 
 | Name | GitHub ID | Affiliation |
 | ---- | --------- | ----------- |
-| [Fei Guo](mailto:f.guo@alibaba-inc.com) | [Fei-Guo](https://github.com/Fei-Guo) | Alibaba |
+| [Fei Guo](mailto:vrgf2003@gmail.com) | [Fei-Guo](https://github.com/Fei-Guo) | Mircosoft |
 | [Siyu Wang](mailto:jiuzhu.wsy@alibaba-inc.com) | [FillZpp](https://github.com/FillZpp) | Alibaba |
 | [Zhen Zhang](mailto:shouchen.zz@alibaba-inc.com) | [furykerry](https://github.com/furykerry) | Alibaba |
 | [Robert Everson](mailto:robert@reverson.net) | [reverson](https://github.com/reverson) | Lyft |
