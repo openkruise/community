@@ -14,3 +14,4 @@ This file lists the maintainers of the OpenKruise project. The responsibilities 
 | [Shanjie Han](mailto:hantmac@outlook.com) | [hantmac](https://github.com/hantmac) | MeiTuan |
 | [Yan Shi](mailto:shiyan20160606@gmail.com) | [shiyan2016](https://github.com/shiyan2016) | Trip |
 | [Shuo Liu](mailto:acejilam@gmail.com) | [ls-2018](https://github.com/ls-2018) | DataCanvas |
+| [Mingshan Zhao](mailto:liheng.zms@alibaba-inc.com) | [zmberg](https://github.com/zmberg) | Alibaba |
